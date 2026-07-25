@@ -5,7 +5,7 @@
 }
 body {
   background-color: rgb(71, 70, 70);
-  height: 100vh;
+  height: 95vh;
   display: grid;
   place-content: end center;
   min-width: 300px;
